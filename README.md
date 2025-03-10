@@ -1,4 +1,4 @@
-### Hi there, I'm [Mohit Saini] 👋
+### Hi there, I'm Mohit Saini 👋
 
 ```solidity
 // Smart Contract Developer | Auditor | Open Source Contributor
